@@ -6,5 +6,5 @@ export const personalData = {
   email: 'wJohn0143@outlook.com',
   SkypeName: '77cba22f10e116c3',
   address: '3526 Southside Lane, Los Angeles, California',
-  devUsername: "wJohn0143",
+  devUsername: "Johnwstar0143",
 }
